@@ -1,5 +1,5 @@
 # RESGAME
-RESGAME: RESGAME: Resilient Game theoretic Analysis and Modelling for space systems Engineering.
+RESGAME: Resilient Game theoretic Analysis and Modelling for space systems Engineering.
 
 Code for three system design case studies from my 2024 MIT Thesis "A Game Theoretic Approach to Resilient Space System Design".
 
